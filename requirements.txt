@@ -1,0 +1,5 @@
+torch
+pillow
+ray
+opencv-python
+torchvision
